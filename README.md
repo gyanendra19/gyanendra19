@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GYANENDRA VERMA</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
